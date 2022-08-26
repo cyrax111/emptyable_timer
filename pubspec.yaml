@@ -1,0 +1,11 @@
+name: emptyable_timer
+description: A handy timer that can be empty rather than nullable. Emptyable timer can be checked if it is canceled. Otherwise, it is a regular timer.
+version: 0.0.1
+repository: https://github.com/cyrax111/emptyable_timer
+
+environment:
+  sdk: '>=2.17.6 <3.0.0'
+
+dev_dependencies:
+  lints: ^2.0.0
+  test: ^1.16.0
